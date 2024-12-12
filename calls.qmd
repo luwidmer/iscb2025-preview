@@ -56,8 +56,9 @@ section](https://www.conftool.org/iscb2025/index.php?page=submissions).
 
 Please note the following key points:
 
+-   The call for abstracts opens on **Monday, December 9<sup>th</sup>, 2025**.
 -   [Deadline for abstract submissions](key-dates.html) is **midnight
-    (CEST)** on **Friday, February 14th, 2025**. Note that **the
+    (CEST)** on **Friday, February 14<sup>th</sup>, 2025**. Note that **the
     abstract submission deadline is final and will not be extended**.
 -   Abstracts submitted by e-mail will not be accepted. **Only
     submissions through the submission portal will be considered**.
@@ -70,6 +71,10 @@ Please note the following key points:
     limitation in abstract co-authorship**.
 -   All abstracts must be submitted in **English**.
 -   Please **do not submit multiple copies** of the same abstract.
+-   If you would like to apply to the Student Conference Award (StCA) or Conference Attendance Support Program (CASP), **make sure that you 
+    select the corresponding checkbox after topic selection** when submitting, 
+    and **in addition separately submit the required documents through the StCA and/or
+    CASP tracks**. See the [StCA](awards-student.qmd) and [CASP](awards-casp.qmd) guidelines for details.
 -   All abstracts will be reviewed and rated by the Scientific Program
     Committee.
 
@@ -84,9 +89,8 @@ guidelines:
 -   Abstract text word limit: 400 words (excluding author names and
     affiliation details).
 -   The full names and affiliations of all authors should be submitted
-    in the relevant fields. The uploaded PDF file should be blinded,
-    meaning no author or affiliation information should exist within the
-    file.
+    in the relevant fields. The abstract should be blinded, meaning no author 
+    or affiliation information should exist within the abstract.
 -   References may be included within the abstract provided the total
     word count does not exceed the 400-word limit.
 -   We recommend organising the abstract into the following sections, if
