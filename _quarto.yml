@@ -44,6 +44,8 @@ website:
           text: "Privacy policy"
       - text: "Program"
         menu: 
+         - text: "Invited Sessions"
+           href: invited-sessions.qmd
          - text: "Mini-Symposia"
            href: mini-symposia.qmd
       - text: "About Basel"
